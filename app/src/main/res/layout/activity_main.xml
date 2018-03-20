@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/attractions"
+        style="@style/CategoryStyle"
+        android:background="@color/Attractions"
+        android:text="@string/Attractions" />
+
+    <TextView
+        android:id="@+id/malls"
+        style="@style/CategoryStyle"
+        android:background="@color/Malls"
+        android:text="@string/Malls" />
+
+    <TextView
+        android:id="@+id/hotels"
+        style="@style/CategoryStyle"
+        android:background="@color/Hotels"
+        android:text="@string/Hotels" />
+
+    <TextView
+        android:id="@+id/markets"
+        style="@style/CategoryStyle"
+        android:background="@color/Markets"
+        android:text="@string/Markets" />
+
+</LinearLayout>

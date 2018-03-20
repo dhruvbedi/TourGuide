@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="Attractions">Attractions</string>
+    <string name="Markets">Markets</string>
+    <string name="Malls">Malls</string>
+    <string name="Hotels">Hotels</string>
+    <string name="IndiaGate">India Gate</string>
+    <string name="monument">Monument</string>
+    <string name="QM">Qutub Minar</string>
+    <string name="LT">Lotus Temple</string>
+    <string name="AD">Akshar Dhaam</string>
+    <string name="hotel1">The Lalit New Delhi</string>
+    <string name="hotel2">Taj Mahal Hotel</string>
+    <string name="hotel3">ITC Maurya</string>
+    <string name="hotel4">The Lodhi</string>
+    <string name="hotel5">The Imperial Hotel</string>
+    <string name="hotel6">The Leela Palace New Delhi</string>
+    <string name="price1">₹ 12,060</string>
+    <string name="price2">₹ 11,782</string>
+    <string name="price3">₹ 14,704</string>
+    <string name="price4">₹ 14,069</string>
+    <string name="price5">₹ 13,301</string>
+    <string name="price6">₹ 13,982</string>
+    <string name="mall1">DLF Emporio</string>
+    <string name="mall2">Pacific Mall</string>
+    <string name="mall3">Select CITYWALK</string>
+    <string name="mall4">Star City Mall</string>
+    <string name="mall5">TDI Mall</string>
+    <string name="mall6">Ambience Mall</string>
+    <string name="md1">People typically spend 20 min to 2 hr here</string>
+    <string name="md2">People typically spend 45 min to 2.5 hr here</string>
+    <string name="md3">People typically spend 45 min to 3 hr here</string>
+    <string name="md4">People typically spend 10-45 min here</string>
+    <string name="md5">People typically spend 20 min to 1.5 hr here</string>
+    <string name="md6">People typically spend 45 min to 2.5 hr here</string>
+    <string name="mkt1">Palika Bazar</string>
+    <string name="mkt2">Khan Market</string>
+    <string name="mkt3">Sarojini Nagar Market</string>
+    <string name="mkt4">Karol Bagh Market</string>
+    <string name="mktd1">Clothing shops in New Delhi, India</string>
+    <string name="mktd2">Popular, bi-level market featuring high-end retail shops and a variety of restaurants and bars</string>
+    <string name="mktd3">Clothes market</string>
+    <string name="mktd4">Has a number of labeled air-conditioned display rooms</string>
+
+
+</resources>
